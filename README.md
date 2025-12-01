@@ -1,4 +1,3 @@
-[ai_receptionist_html.html](https://github.com/user-attachments/files/23845299/ai_receptionist_html.html)
 <!DOCTYPE html>
 <html lang="en">
 <head>
